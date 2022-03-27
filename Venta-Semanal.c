@@ -1,4 +1,4 @@
-// Alex Daniel Ayala Francisco 2020-0822
+
 // programa para las ventas semanales
 
 #include <stdio.h> //ejecuta el complilador
